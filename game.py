@@ -1,7 +1,7 @@
 import random
 
 number = random.randint(1, 50)
-attempts = 0
+attempts = 7
 
 print("Welcome to the Number Guessing Game!")
 print("Guess a number between 1 and 50.")
