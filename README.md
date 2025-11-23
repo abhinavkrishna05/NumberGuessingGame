@@ -1,0 +1,1 @@
+This assignment helped in building not only a functional Python project but also core technical skills required in software engineering. By using Visual Studio Code, Git, and GitHub, the development lifecycle became structured, traceable, and professional.
